@@ -1,3 +1,3 @@
   SO_long
 
-A simple 2d game like pacman.
+A 2d game mimicking Pacman.
